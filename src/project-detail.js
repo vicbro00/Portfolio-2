@@ -12,7 +12,7 @@ const projectData = {
     repoLink: 'https://github.com/vicbro00/CSS-frameworks',
     improvementLink: 'https://github.com/vicbro00/CSS-frameworks/commit/9c22921f602485fe848824ebaa1de02237f8139f',
   },
-  'js-frameworks': {
+  'js1-frameworks': {
     title: 'E-com Store',
     image: '/images/js1-frameworks-teaser.jpg',
     description: 'A full React online shop with state management and API integration.',
