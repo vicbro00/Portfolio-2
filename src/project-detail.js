@@ -61,7 +61,7 @@ export default function ProjectDetail() {
           <p>{project.description}</p>
           
           <div className="bg-light p-4 rounded my-4">
-            <h4>The Improvement (Portfolio 2)</h4>
+            <h4>The Improvement</h4>
             <p>{project.improvement}</p>
           </div>
 
